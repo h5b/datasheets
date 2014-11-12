@@ -12,6 +12,8 @@ A repository to hold various datasheets related to embedded development
 | [EM027AS012-BoardRevB.pdf](EM027AS012-BoardRevB.pdf) | Embedded Artist E-Paper Display Adapter Board Re. B |
 | [EM027AS012-BoardRevC.pdf](EM027AS012-BoardRevC.pdf) | Embedded Artist E-Paper Display Adapter Board Re. C |
 | [EM027AS012-SerExpRevA.pdf](EM027AS012-SerExpRevA.pdf) | Embedded Artist Serial Expansion Interface Connector |
+| [GP2Y0A21YK.pdf](GP2Y0A21YK.pdf) | Sharp General Purpose Type Distance Measuring Sensor |
+| [HEF4050B.pdf](HEF4050B.pdf)| NXP Hex non-inverting Buffer |
 | [LM35CZ](LM35CZ.pdf) | LM35 Precision Centigrade Temperature Sensor |
 | [NXP LM75A](NXP-LM75A.pdf) | NXP I2C Digital Temperature Sensor and Thermal Watchdog |
 | [PCD8544](PCD8544.pdf) | Philips 48x84 Pixels Matrix LCD Controller/Driver |
