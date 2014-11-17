@@ -20,3 +20,4 @@ A repository to hold various datasheets related to embedded development
 | [NL-NMEA-UBX-Spec](NLNMEAUBXSpec.pdf) | Navilock u-blox 5 NMEA and UBX Protocol Specification |
 | [NXP LM75A](NXP-LM75A.pdf) | NXP I2C Digital Temperature Sensor and Thermal Watchdog |
 | [PCD8544](PCD8544.pdf) | Philips 48x84 Pixels Matrix LCD Controller/Driver |
+| [SLAU144i](slau144i.pdf) | Texas Instruments MSP430x2xx Family Users's Guide |
